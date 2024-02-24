@@ -1,4 +1,4 @@
-# Exploring Pancreatic Cancer Multicellular Ecosystems: A Spatially Resolved Transcriptomics Atlas of Matched Primary and Metastatic Samples.
+# Spatially Resolved Transcriptomics Atlas of Matched Primary and Metastatic Pancreatic Cancer reveal principles of Ecological Adaptation.
 
 <img width="1280" alt="Github_main" src="https://github.com/Masood-Lab/PDAC_Mets/assets/154272206/bfe15239-3413-4e2d-b259-fc424562612a">
 
