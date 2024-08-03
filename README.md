@@ -1,11 +1,12 @@
-# Spatially Resolved Transcriptomics Atlas of Matched Primary and Metastatic Pancreatic Cancer reveal principles of Ecological Adaptation.
+# Spatial Transcriptomic Analysis Of Primary And Metastatic Pancreatic Cancers Highlights Tumor Microenvironmental Heterogeneity.
 
 ![Untitled](https://github.com/Masood-Lab/PDAC_Mets/assets/154272206/8b06c1ce-94c6-4790-9cba-7cd5e08dac38)
 
 
 ## Abstract
 ###
-While spatial, cellular, and molecular landscape of resected pancreatic ductal adenocarcinoma (PDAC) are well characterized, spatial metastasis ecology remains elusive. Using spatially resolved transcriptomics on matched primary and metastatic PDACs uncovered conserved fibrotic, metabolic, and immunosuppressive spatial ecotype continuum across anatomical regions. Although conserved, spatial ecotype enrichment differs between primary tumors and their metastasis, enabling growth and survival. A distinct immune ecotype enriched in metastases revealed pro- and anti-tumor immune phenotypes, highlighting an intrinsic “tug-of-war”. Though crucial for tumor growth, spatial ecotype enrichment differences necessitate personalized mapping in each patient’s unique microenvironment to allow tailored treatment. By conceptualizing PDAC as a heterogeneous ecosystem, we demonstrate proof-of-concept by aligning ecotype blueprints with a drug database to define therapeutic vulnerabilities for various ecotypes in both primary and metastatic tumors.  This work offers comprehensive insights into the metastatic biology of PDAC and will serve as a valuable resource for therapeutic development against this deadly malignancy. 
+Although the spatial, cellular, and molecular landscapes of resected pancreatic ductal adenocarcinoma (PDAC) are well documented, the characteristics of its metastatic ecology remain elusive. By applying spatially resolved transcriptomics to matched primary and metastatic PDAC samples, we discovered a conserved continuum of fibrotic, metabolic, and immunosuppressive spatial ecotypes across anatomical regions. We observed spatial tumor microenvironment heterogeneity spanning beyond previously appreciated in PDAC. Through comparative analysis, we show the  spatial ecotypes exhibit distinct enrichment between primary and metastatic sites, implying adaptability to the local environment for survival and progression. The invasive border ecotype exhibits both protumorigenic and antitumorigenic cell-type enrichment, suggesting a potential immunotherapy target. The ecotype heterogeneity across patients emphasizes the need to map individual patient landscapes to develop personalized treatment strategies. Collectively, our findings provide critical insights into metastatic PDAC biology and serve a valuable resource for future therapeutic exploration and molecular investigations.
+. 
 
 #### Additional Data
 Click [here](https://zenodo.org/records/10712047) for additional files used for the analysis.
