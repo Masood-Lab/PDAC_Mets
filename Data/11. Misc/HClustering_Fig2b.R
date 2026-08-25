@@ -110,8 +110,8 @@ wilcoxon_res <- cluster_summary_pat %>%
   dplyr::select(wres) %>%
   unnest() %>%
   ungroup() %>%
-  mutate(p_corr = p.adjust(p.value)) %>%
-  mutate(significant = ifelse(p_corr <= 0.15, "*", ""))
+  mutate(p_corr = p.adjust(p.value,method = "BH")) %>%
+  mutate(significant = ifelse(p_corr <= 0.01, "*", ""))
 ```
  
 #### Save the summary statistics
