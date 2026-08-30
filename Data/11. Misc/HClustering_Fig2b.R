@@ -143,7 +143,7 @@ mean_ct_prop_plt <- cluster_summary %>%
   theme(axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0.5, size = 12), legend.position = "bottom", plot.margin = unit(c(0, 0, 0, 0), "cm"), axis.text.y = element_text(size = 12)) +
   scale_fill_gradient2()
  
-cluster_counts <- cluster_info %>%
+cluster_counts <- metadata %>%
   dplyr::select_at(c("row_id", "cc_ischia_10")) %>%
   group_by(cc_ischia_10) %>%
   summarize(nspots = length(cc_ischia_10)) %>%
